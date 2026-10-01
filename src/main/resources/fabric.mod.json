@@ -3,7 +3,7 @@
   "id": "nojumpdelay",
   "version": "${version}",
   "name": "NoJumpDelay",
-  "description": "No Hit Delay",
+  "description": "Removes the delay when jumping so you can just hold the jump key",
   "authors": [
     "Kathund"
   ],
@@ -11,6 +11,8 @@
     "homepage": "https://github.com/Kathund/NoJumpDelay/",
     "sources": "https://github.com/Kathund/NoJumpDelay/"
   },
+  "license": "MIT",
+  "icon": "assets/nojumpdelay/logo.png",
   "environment": "client",
   "entrypoints": {
     "init": [
